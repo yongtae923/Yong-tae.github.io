@@ -1,0 +1,20 @@
+# Site settings
+title: Yongtae Blog
+description: Yongtae Kim's Blog about Software Programming
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Yongtae Kim
+user_description: 플랫폼 백엔드 개발자. 파이썬, C#, C++ 등을 사용합니다. 미션형 체험게임 플랫폼 '리얼월드'를 개발한 유니크굿컴퍼니에서 일하고 있습니다.
+user_title: Software Developer
+email: yongtae7481@gmail.com
+twitter_username: yongtae_t
+github_username:  Yong-tae
+gplus_username:  blogyongtae.medium.com
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
